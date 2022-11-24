@@ -267,3 +267,8 @@ li {
 a:hover {
     color: aqua;
 }
+
+.one {
+    border-bottom: 10px solid limegreen;
+    color: purple;
+}
